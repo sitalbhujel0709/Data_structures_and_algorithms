@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -24,5 +26,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0015-3sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
