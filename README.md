@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0567-permutation-in-string) |
@@ -119,8 +121,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
