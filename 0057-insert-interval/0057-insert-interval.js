@@ -7,9 +7,6 @@ var insert = function(intervals, newInterval) {
     let newIntervals = [];
     let res = []
     let insert = false;
-    if(intervals.length === 0){
-        newIntervals.push(newInterval)
-    }
     for(let i = 0;i<intervals.length;i++){
         if(intervals[i][0]>=newInterval[0] && insert===false){
             newIntervals.push(newInterval)
