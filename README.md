@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0424-longest-repeating-character-replacement) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0234-palindrome-linked-list) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0986-interval-list-intersections) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sitalbhujel0709/Data_structures_and_algorithms/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
